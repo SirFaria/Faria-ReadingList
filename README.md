@@ -8,5 +8,6 @@
 
 ## 💻 Projeto
 
-Um app onde você pode criar sua lista de leitura.\
-Um simples app em react criado no 'React Context & Hooks Tutorial' do 'The Net Ninja'.
+An app where you can create your own reading list.\
+
+A simple react app created in 'The Net Ninja: React Context & Hooks Tutorial'.
