@@ -11,3 +11,13 @@
 An app where you can create your own reading list.
 
 A simple react app created in 'The Net Ninja: React Context & Hooks Tutorial'.
+
+## 🚀 Techs
+
+This project was built with:
+
+- HTML
+- CSS
+- JavaScript
+- [React](https://reactjs.org)
+
